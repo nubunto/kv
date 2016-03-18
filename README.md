@@ -1,4 +1,3 @@
-# KvUmbrella
+# KV
 
-**TODO: Add description**
-
+A distributed Key-Value store, written in Elixir.
